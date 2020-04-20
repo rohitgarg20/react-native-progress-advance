@@ -1,4 +1,4 @@
-declare module 'react-native-progress' {
+declare module 'react-native-progress-advance' {
   import React from 'react'
   import { ViewProperties } from 'react-native'
 

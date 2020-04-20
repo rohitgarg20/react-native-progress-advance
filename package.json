@@ -1,8 +1,8 @@
 {
   "_args": [
     [
-      "react-native-progress@3.5.0",
-      "/Users/ambreesh/Ambreesh/workspace_new/myPat_main/mypatapp-v2"
+      "react-native-progress-advance@3.5.0",
+      "/Users/ambreesh/Desktop/react-native-progress-advance"
     ]
   ],
   "_from": "react-native-progress-advance@3.5.0",
@@ -26,7 +26,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/react-native-progress-advance/-/react-native-progress-advance-3.5.0.tgz",
   "_spec": "3.5.0",
-  "_where": "/Users/ambreesh/Ambreesh/workspace_new/myPat_main/mypatapp-v2",
+  "_where": "Users/ambreesh/Desktop/react-native-progress-advance",
   "author": {
     "name": "Joel Arvidsson",
     "email": "joel@oblador.se"
@@ -71,7 +71,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-progress",
+  "name": "react-native-progress-advance",
   "repository": {
     "type": "git",
     "url": "git://github.com/ambreesh/react-native-progress-advance.git"
