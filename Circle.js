@@ -112,7 +112,7 @@ export class ProgressCircle extends Component {
       : progress * CIRCLE;
 
     return (
-      <View style={[styles.container, style]} {...restProps}>
+      <View style={[styles.container, style, { flex: 1 }]} {...restProps}>
         <Surface
           width={size}
           height={size}
